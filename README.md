@@ -1,3 +1,18 @@
+## How to add a team member
+
+1. Go to `_data/team.yml` and click the pencil icon
+2. Find the right group heading
+3. Copy an existing line and change the name.
+   Keep the indentation identical.
+4. Scroll down, click "Commit changes"
+5. Wait 2 minutes and reload the site
+
+## If the site breaks
+
+Check the "Actions" tab. A red X means the last edit had a
+formatting error — usually wrong indentation. Click the red X,
+then either fix it or revert the commit.
+
 # Minimal Mistakes remote theme starter
 
 Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
