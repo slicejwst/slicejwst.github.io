@@ -1,28 +1,33 @@
 - name: Guillaume Mahler
+  group: pi
   role: 
   institution: 
   image: /assets/images/team/mahler.png
   url: 
 
 - name: Mathilde Jauzac
+  group: steering comittee
   role: 
   institution: 
   image: 
   url: 
 
 - name: Keren Sharon
+  group: steering comittee
   role: 
   institution: 
   image: 
   url: 
 
   - name: Gourav Khullar
+  group: steering comittee
   role: 
   institution: 
   image: 
   url: 
 
   - name: Mike Gladders
+  group: steering comittee
   role: 
   institution: 
   image: 
