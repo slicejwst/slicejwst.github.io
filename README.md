@@ -13,7 +13,7 @@ Check the "Actions" tab. A red X means the last edit had a
 formatting error — usually wrong indentation. Click the red X,
 then either fix it or revert the commit.
 
-# Minimal Mistakes remote theme starter
+## Adding new things using the existing theme, called Minimal Mistakes
 
 Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
 
@@ -34,6 +34,8 @@ Replace sample content with your own and [configure as necessary](https://mmista
 ---
 
 ## Troubleshooting
+
+SLICE member who designed the site: Alaina Einsig (aeinsig@umich.edu). I can help with some of the basics.
 
 If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
 
