@@ -72,3 +72,10 @@ $border-color: #2c2f36;
   margin-left: auto;
   margin-right: auto;
 }
+
+/* TEMPORARY — remove when done */
+.page__hero--overlay { outline: 2px solid red; }
+.page__hero--overlay .wrapper { outline: 2px solid lime; }
+.page__hero--overlay .page__title { outline: 2px solid cyan; }
+.page__hero--overlay .page__lead { outline: 2px solid magenta; }
+.layout--splash .page__content { outline: 2px solid orange; }
