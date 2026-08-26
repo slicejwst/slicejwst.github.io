@@ -1,0 +1,63 @@
+---
+# Front matter is required. Two dashes is enough.
+---
+
+@charset "utf-8";
+
+// ---- Fonts (must come BEFORE the imports) ----
+$global-font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+$header-font-family: 'Space Grotesk', 'Inter', sans-serif;
+
+// ---- Colors (also before the imports) ----
+$background-color: #16181d;
+$text-color: #e8e8e8;
+$muted-text-color: #a8a8a8;
+$primary-color: #6ab7ff;
+$link-color: #6ab7ff;
+$border-color: #2c2f36;
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+
+// ================================================
+// Custom overrides — these go AFTER the imports
+// ================================================
+
+/* Bigger banner title */
+.page__hero--overlay .page__title {
+  font-size: clamp(3rem, 9vw, 7rem);
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+.page__hero--overlay .page__lead {
+  font-size: clamp(1rem, 2.2vw, 1.5rem);
+  font-weight: 400;
+}
+
+/* Center everything on the splash page */
+.layout--splash .page__content {
+  text-align: center;
+}
+
+/* Keep text readable — splash content is full-width by default */
+.layout--splash .page__content > * {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Smaller top nav */
+.greedy-nav a {
+  font-size: 0.75em;
+  letter-spacing: 0.03em;
+}
+
+.greedy-nav .site-title {
+  font-size: 0.95em;
+}
+
+.masthead__inner-wrap {
+  padding: 0.5em 1em;
+}
