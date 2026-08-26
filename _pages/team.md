@@ -7,112 +7,25 @@ toc: true
 toc_label: "Institutions"
 ---
 
-Guillaume Mahler
-
-Mathilde Jauzac
-
-Keren Sharon
-
-Gourav Khullar 
-
-Mike Gladders
-
-
-Adi Zitrin
-
-Alaina Einsig
-
-Alastair Edge
-
-Joseph Allingham
-
-Anthony Gonzalez
-
-Ashish Kumar Meena
-
-Azadeh Fattahi
-
-Becky Canning
-
-Benjamin beauchesne
-
-Ben Floyd
-
-Carla Cornil-Baïotto
-
- 
-
-Catherine Cerny
-
-David Lagattuta
-
-David Harvey
-
-David Lagattuta
-
-Dominique Eckert
-
-Erin Coleman
-
-Felix Vecchi
-
-Gavin Leroy
-
-Isaac Smith
-
-Isaque Dutra
-
-James Betts
-
-
-
-
-Jess Doppel
-
-Jean-Paul Kneib
-
-Jose Diego
-
-Johan Richard
-
-John Weaver
-
-Katiya Fosdick
-
-Kyle Ainsley
-
-Lindsey Bleem
-
-Marceau Limousin
-
-Marcus Halson
-
-Matt Bayliss
-
-Michael McDonald
-
-Michael Calzadilla
-
-Michael Florian
-
-Mike Gladders
-
-Mireia Montes
-
-Nency Patel
-
-Anna Niemiec
-
-Pedram Abedi
-
-Priyamvada Natarajan
-
-Raven Gassis
-
-Richard Massey
-
-Spandan Biswal
-
-Stephane Werner
-
-Yushan Xie
+<div class="team-grid">
+{% for person in site.data.team %}
+  <div class="team-card">
+    {% if person.image %}
+      <img src="{{ person.image | relative_url }}" alt="{{ person.name }}" class="team-photo">
+    {% else %}
+      <div class="team-photo team-photo--placeholder">
+        <span>{{ person.name | split: " " | first | slice: 0 }}{{ person.name | split: " " | last | slice: 0 }}</span>
+      </div>
+    {% endif %}
+    <div class="team-info">
+      {% if person.url %}
+        <p class="team-name"><a href="{{ person.url }}">{{ person.name }}</a></p>
+      {% else %}
+        <p class="team-name">{{ person.name }}</p>
+      {% endif %}
+      {% if person.role %}<p class="team-role">{{ person.role }}</p>{% endif %}
+      {% if person.institution %}<p class="team-inst">{{ person.institution }}</p>{% endif %}
+    </div>
+  </div>
+{% endfor %}
+</div>
