@@ -1,7 +1,7 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Team Members"
+  - title: "Team"
     url: /team/
   - title: "News & Publications"
     url: /news/
