@@ -61,3 +61,14 @@ $border-color: #2c2f36;
 .masthead__inner-wrap {
   padding: 0.5em 1em;
 }
+
+/* Center banner text horizontally */
+.page__hero--overlay {
+  text-align: center;
+}
+
+.page__hero--overlay .wrapper {
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
