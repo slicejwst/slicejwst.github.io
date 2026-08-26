@@ -1,6 +1,6 @@
 ---
 title: "Team Members"
-layout: categories
+layout: simple
 permalink: /team/
-author_profile: true
+author_profile: false
 ---
