@@ -1,79 +1,77 @@
-- name: Guillaume Mahler
-  group: pi
-  role: 
-  institution: 
-  image: /assets/images/team/mahler.png
-  url: 
+# ============================================================
+# SLICE team list
+#
+# TO ADD A PERSON: copy an existing "- name:" line into the
+# right group. Keep the 4-space indent exactly as shown.
+#
+# TO ADD A GROUP: copy a whole "- label:" block to the position
+# you want it to appear on the page.
+#
+# Optional fields per person: role, institution, image, url
+# Leave out any field you don't have.
+# ============================================================
 
-- name: Mathilde Jauzac
-  group: steering comittee
-  role: 
-  institution: 
-  image: 
-  url: 
+- label: "Principal Investigator"
+  people:
+    - name: Guillaume Mahler
+      institution: University of Liège
+      image: /assets/images/team/mahler.png
 
-- name: Keren Sharon
-  group: steering comittee
-  role: 
-  institution: 
-  image: 
-  url: 
+- label: "Steering Committee"
+  people:
+    - name: Keren Sharon
+      institution: University of Michigan
+    - name: Mathilde Jauzac
+    - name: Mike Gladders
+    - name: Gourav Khullar
 
-  - name: Gourav Khullar
-  group: steering comittee
-  role: 
-  institution: 
-  image: 
-  url: 
+- label: "Strong Lensing Working Group Leads"
+  people:
+    - name: Catherine Cerny
+    - name: Benjamin Beauchesne
 
-  - name: Mike Gladders
-  group: steering comittee
-  role: 
-  institution: 
-  image: 
-  url: 
-
-- name: Adi Zitrin
-- name: Alaina Einsig
-- name: Alastair Edge
-- name: Joseph Allingham
-- name: Anthony Gonzalez
-- name: Ashish Kumar Meena
-- name: Azadeh Fattahi
-- name: Becky Canning
-- name: Benjamin Beauchesne
-- name: Ben Floyd
-- name: Carla Cornil-Baïotto
-- name: Catherine Cerny
-- name: David Lagattuta
-- name: David Harvey
-- name: Dominique Eckert
-- name: Erin Coleman
-- name: Felix Vecchi
-- name: Gavin Leroy
-- name: Isaque Dutra
-- name: James Betts
-- name: Jess Doppel
-- name: Jean-Paul Kneib
-- name: Jose Diego
-- name: Johan Richard
-- name: John Weaver
-- name: Katiya Fosdick
-- name: Kyle Ainsley
-- name: Lindsey Bleem
-- name: Marceau Limousin
-- name: Marcus Halson
-- name: Matt Bayliss
-- name: Michael McDonald
-- name: Michael Calzadilla
-- name: Michael Florian
-- name: Mireia Montes
-- name: Nency Patel
-- name: Anna Niemiec
-- name: Pedram Abedi
-- name: Priyamvada Natarajan
-- name: Raven Gassis
-- name: Richard Massey
-- name: Spandan Biswal
-- name: Stephane Werner
-- name: Yushan Xie
+- label: "Collaboration Members"
+  people:
+    - name: Adi Zitrin
+    - name: Alaina Einsig
+    - name: Alastair Edge
+    - name: Anna Niemiec
+    - name: Anthony Gonzalez
+    - name: Ashish Kumar Meena
+    - name: Azadeh Fattahi
+    - name: Becky Canning
+    - name: Ben Floyd
+    - name: Carla Cornil-Baïotto
+    - name: David Harvey
+    - name: David Lagattuta
+    - name: Dominique Eckert
+    - name: Erin Coleman
+    - name: Felix Vecchi
+    - name: Gavin Leroy
+    - name: Isaac Smith
+    - name: Isaque Dutra
+    - name: James Betts
+    - name: Jean-Paul Kneib
+    - name: Jess Doppel
+    - name: Johan Richard
+    - name: John Weaver
+    - name: Jose Diego
+    - name: Joseph Allingham
+    - name: Katiya Fosdick
+    - name: Kyle Ainsley
+    - name: Lindsey Bleem
+    - name: Marceau Limousin
+    - name: Marcus Halson
+    - name: Matt Bayliss
+    - name: Michael Calzadilla
+    - name: Michael Florian
+    - name: Michael McDonald
+    - name: Mireia Montes
+    - name: Nency Patel
+    - name: Pedram Abedi
+    - name: Priyamvada Natarajan
+    - name: Raven Gassis
+    - name: Richard Massey
+    - name: Spandan Biswal
+    - name: Stephane Werner
+    - name: Yushan Xie
