@@ -35,8 +35,8 @@ Stellar content comes in the form of three cluster constituents:
 
   </div>
   <figure class="sci-figure">
-    <img src="/assets/images/bcg_example.png" alt="Brightest cluster galaxy with surrounding intracluster light.">
-    <figcaption>Credit: NASA/ESA/CSA</figcaption>
+    <img src="/assets/images/bcg_example.png" alt="Figure of galaxy luminous matter: ICL, GCs, something">
+    <figcaption> Figure caption>
   </figure>
 </div>
 
@@ -51,7 +51,8 @@ Strong lensing models remain one of the best ways to map dark matter in galaxy c
 
   </div>
   <figure class="sci-figure">
-    <img src="/assets/images/second.png" alt="Descriptive alt text.">
+    <img src="/assets/images/second.png" alt="Figure of a SLICE lens model">
+    <figcaption> Figure caption>
   </figure>
 </div>
 
