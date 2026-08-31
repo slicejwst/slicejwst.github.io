@@ -41,7 +41,6 @@ America, and the Middle East.
   </div>
 {% endfor %}
 </div>
-
 {% else %}
 <ul class="team-list">
 {% for person in group.people %}
@@ -52,6 +51,4 @@ America, and the Middle East.
 {% endfor %}
 </ul>
 {% endif %}
-
-{% endfor %}
 {% endfor %}
