@@ -23,13 +23,16 @@ header:
 <div class="team-grid">
 {% for person in group.people %}
   <div class="team-card">
-    {% if person.image %}
-      <img src="{{ person.image | relative_url }}" alt="{{ person.name }}" class="team-photo">
-    {% else %}
-      <div class="team-photo team-photo--placeholder">
-        <span>{{ person.name | split: " " | first | slice: 0 }}{{ person.name | split: " " | last | slice: 0 }}</span>
-      </div>
-    {% endif %}
+    <div class="team-photo-wrap">
+      {% if person.image %}
+        <img src="{{ person.image | relative_url }}" alt="{{ person.name }}" class="team-photo">
+      {% else %}
+        <div class="team-photo team-photo--placeholder">
+          <span>{{ person.name | split: " " | first | slice: 0 }}{{ person.name | split: " " | last | slice: 0 }}</span>
+        </div>
+      {% endif %}
+      {% if person.badge %}<span class="team-badge">{{ person.badge }}</span>{% endif %}
+    </div>
     <div class="team-info">
       {% if person.url %}
         <p class="team-name"><a href="{{ person.url }}">{{ person.name }}</a></p>
