@@ -232,3 +232,24 @@ $border-color: #2c2f36;
 .team-grid {
   justify-content: center;
 }
+/* Photo grid: 4 across */
+.team-grid {
+  grid-template-columns: repeat(4, 1fr);
+  max-width: 720px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (max-width: 700px) {
+  .team-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+/* Center sections with fewer than 4 people */
+.team-grid {
+  justify-content: center;
+}
+
+.team-grid:has(.team-card:only-child) {
+  grid-template-columns: minmax(0, 180px);
+}
