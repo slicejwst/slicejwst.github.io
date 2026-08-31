@@ -10,12 +10,11 @@
 # Optional fields per person: role, institution, image, url
 # Leave out any field you don't have.
 # ============================================================
-
 - label: "Steering Committee"
   style: photos
   people:
     - name: Guillaume Mahler
-      role: Principal Investigator
+      badge: PI
       institution: University of Liège
     - name: Keren Sharon
       institution: University of Michigan
