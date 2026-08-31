@@ -4,6 +4,10 @@ title: "About SLICE"
 permalink: /about/
 author_profile: false
 toc: false
+header:
+  overlay_image: /assets/images/banner_image.png
+  overlay_filter: 0.45
+  caption: "Credit: NASA/ESA/CSA JWST"
 ---
 
 ## Overview
