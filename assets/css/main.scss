@@ -24,6 +24,7 @@ $border-color: #2c2f36;
 // Banner
 // ================================================
 
+// ---------- Banner (all pages) ----------
 .page__hero--overlay {
   text-align: center;
 }
@@ -35,7 +36,6 @@ $border-color: #2c2f36;
 }
 
 .page__hero--overlay .page__title {
-  font-size: clamp(3rem, 9vw, 7rem);
   font-weight: 700;
   letter-spacing: 0.02em;
 }
@@ -52,6 +52,22 @@ $border-color: #2c2f36;
   float: none;
 }
 
+// ---------- Landing page banner: large ----------
+.layout--splash .page__hero--overlay .page__title {
+  font-size: clamp(3rem, 9vw, 7rem);
+}
+
+// ---------- Interior page banners: compact ----------
+.layout--single .page__hero--overlay {
+  min-height: 30vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.layout--single .page__hero--overlay .page__title {
+  font-size: clamp(1.8rem, 4vw, 3rem);
+}
 
 // ================================================
 // Splash page
