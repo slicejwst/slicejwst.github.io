@@ -271,6 +271,29 @@ $border-color: #2c2f36;
   animation: spreadIn 1.4s cubic-bezier(0.2, 0.8, 0.2, 1) both;
 }
 
+.team-photo-wrap {
+  position: relative;
+  display: block;
+}
+
+.team-badge {
+  position: absolute;
+  bottom: -2px;
+  right: -2px;
+  background: #6ab7ff;
+  color: #101216;
+  font-family: $header-font-family;
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  padding: 0.2em 0.55em;
+  border-radius: 999px;
+  border: 2px solid #16181d;
+  line-height: 1.4;
+  white-space: nowrap;
+}
+
+
 @keyframes spreadIn {
   from {
     opacity: 0;
