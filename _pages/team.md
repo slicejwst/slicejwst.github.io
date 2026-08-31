@@ -12,9 +12,6 @@ classes: team-page
   All team data lives in _data/team.yml
 -->
 
-SLICE brings together researchers across institutions in Europe, North
-America, and the Middle East.
-
 {% for group in site.data.team %}
 ## {{ group.label }}
 
