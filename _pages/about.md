@@ -4,6 +4,7 @@ title: "About SLICE"
 permalink: /about/
 author_profile: false
 toc: false
+classes: wide
 header:
   overlay_image: /assets/images/banner_image.png
   overlay_filter: 0.45
