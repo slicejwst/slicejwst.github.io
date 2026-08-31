@@ -45,7 +45,7 @@ Stellar content comes in the form of three cluster constituents:
 
 ### Constrain the Properties of Dark Matter
 
-Strong lensing models remain one of the best ways to map dark matter in galaxy clusters. By finding strong lenses, testing cosmological models, and constraining dark matter properties, SLICE will reveal the co-evolution of luminous and dark matter in the densest nodes of the cosmic web.
+Strong lensing models remain one of the best ways to map dark matter in galaxy clusters. By finding strong lenses, testing cosmological models, and constraining dark matter properties, SLICE data will answer questions about co-evolution of luminous and dark matter in the densest nodes of the cosmic web.
 
 *Add more here with input from team*
 
