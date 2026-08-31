@@ -11,26 +11,28 @@
 # Leave out any field you don't have.
 # ============================================================
 
-- label: "Principal Investigator"
-  style: photos
-  people:
-    - name: Guillaume Mahler
-      institution: University of Liège
-
 - label: "Steering Committee"
   style: photos
   people:
+    - name: Guillaume Mahler
+      role: Principal Investigator
+      institution: University of Liège
     - name: Keren Sharon
       institution: University of Michigan
     - name: Mathilde Jauzac
+      institution: Durham University
     - name: Mike Gladders
+      institution: University of Chicago
     - name: Gourav Khullar
+      institution: University of Washington
 
 - label: "Strong Lensing Working Group Leads"
   style: photos
   people:
     - name: Catherine Cerny
+      insitution: University of Michigan
     - name: Benjamin Beauchesne
+      institution: Durham University
 
 - label: "Collaboration Members"
   style: list
