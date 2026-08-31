@@ -11,7 +11,7 @@ header:
   caption: "Credit: NASA/ESA/CSA JWST"
 ---
 
-The SLICE survey explores how galaxy clusters accumulate luminous and dark mass over cosmic time.
+The SLICE survey explores how galaxy clusters accumulate luminous and dark matter over cosmic time.
 
 # The Power of the Sample
 
