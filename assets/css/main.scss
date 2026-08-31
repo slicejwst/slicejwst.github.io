@@ -293,6 +293,110 @@ $border-color: #2c2f36;
   white-space: nowrap;
 }
 
+.figure-center {
+  max-width: 800px;
+  margin: 2.5em auto;
+  text-align: center;
+}
+
+.figure-center img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.figure-center figcaption {
+  text-align: left;
+  font-size: 0.82rem;
+  color: #a8a8a8;
+  line-height: 1.5;
+  margin-top: 0.8em;
+}
+
+/* ---------- Two-column science blocks ---------- */
+.sci-block {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2.5em;
+  align-items: center;
+  margin: 3em 0;
+}
+
+.sci-block--flip .sci-text {
+  order: 2;
+}
+
+.sci-block--flip .sci-figure {
+  order: 1;
+}
+
+.sci-figure {
+  margin: 0;
+}
+
+.sci-figure img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 4px;
+}
+
+.sci-figure figcaption {
+  font-size: 0.78rem;
+  color: #a8a8a8;
+  margin-top: 0.6em;
+  line-height: 1.4;
+}
+
+.sci-text h3 {
+  margin-top: 0;
+}
+
+@media (max-width: 800px) {
+  .sci-block {
+    grid-template-columns: 1fr;
+    gap: 1.5em;
+  }
+  /* On mobile, always text first */
+  .sci-block--flip .sci-text,
+  .sci-block--flip .sci-figure {
+    order: initial;
+  }
+}
+
+/* ---------- Section headings ---------- */
+.page__content h2 {
+  font-size: 1.6rem;
+  margin-top: 3em;
+  margin-bottom: 1.2em;
+  padding-bottom: 0.4em;
+  border-bottom: 1px solid #2c2f36;
+  letter-spacing: 0.01em;
+}
+
+.page__content h3 {
+  font-size: 1.15rem;
+  color: #ffffff;
+  margin-top: 2em;
+  margin-bottom: 0.7em;
+}
+
+/* ---------- Readability ---------- */
+.page__content p,
+.page__content li {
+  line-height: 1.7;
+  font-size: 1rem;
+}
+
+.page__content li {
+  margin-bottom: 0.5em;
+}
+
+.page__content ol,
+.page__content ul {
+  margin-bottom: 1.4em;
+}
+
 
 @keyframes spreadIn {
   from {
