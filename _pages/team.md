@@ -5,6 +5,10 @@ permalink: /team/
 author_profile: false
 toc: false
 classes: team-page
+header:
+  overlay_image: /assets/images/banner_image.png
+  overlay_filter: 0.45
+  caption: "Credit: NASA/ESA/CSA JWST"
 ---
 
 <!--
