@@ -21,8 +21,8 @@ The SLICE survey explores how galaxy clusters accumulate luminous and dark mass 
   <figcaption>The mass/redshift distribution of galaxy clusters. The parent sample — from Sunyaev–Zel'dovich (SPT, ACT, Planck) and X-ray (BCS, eBCS, REFLEX, MACS, eMACS) catalogs — is shown as small grey squares.</figcaption>
 </figure>
 
-
-## Science Goals
+<div class="sci-block">
+  <div class="sci-text">
 
 ### Explore the Evolution of Stellar Content of Galaxy Clusters
 
@@ -34,10 +34,28 @@ Stellar content comes in the form of three cluster constituents:
 2. **Intra-Cluster Light** — its distribution, structure, and redshift evolution
 3. **Globular Clusters** — remnants of past merging activities, possible tracers of dark matter
 
+  </div>
+  <figure class="sci-figure">
+    <img src="/assets/images/bcg_example.png" alt="Brightest cluster galaxy with surrounding intracluster light.">
+    <figcaption>Credit: NASA/ESA/CSA</figcaption>
+  </figure>
+</div>
+
+<div class="sci-block sci-block--flip">
+  <div class="sci-text">
+
+### Second Science Goal
+
 ### Constrain the Properties of Dark Matter
 Strong lensing models continue to be one of the best ways to map dark matter in galaxy clusters. By finding strong lenses, testing cosmological models, and constraining dark matter properties, science with SLICE will reveal the co-evolution of luminous and dark matter in the densest nodes of the cosmic web.
 
 *add more here with input*
+
+  </div>
+  <figure class="sci-figure">
+    <img src="/assets/images/second.png" alt="Descriptive alt text.">
+  </figure>
+</div>
 
 ## Program Details
 SLICE utilizes the 2 widest NIRCAM filters: F150W2 and F322W2. 
