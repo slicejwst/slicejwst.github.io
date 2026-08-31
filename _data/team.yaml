@@ -12,12 +12,13 @@
 # ============================================================
 
 - label: "Principal Investigator"
+  style: photos
   people:
     - name: Guillaume Mahler
       institution: University of Liège
-      image: /assets/images/team/mahler.png
 
 - label: "Steering Committee"
+  style: photos
   people:
     - name: Keren Sharon
       institution: University of Michigan
@@ -26,11 +27,13 @@
     - name: Gourav Khullar
 
 - label: "Strong Lensing Working Group Leads"
+  style: photos
   people:
     - name: Catherine Cerny
     - name: Benjamin Beauchesne
 
 - label: "Collaboration Members"
+  style: list
   people:
     - name: Adi Zitrin
     - name: Alaina Einsig
