@@ -29,7 +29,6 @@ Stellar content is described by three cluster constituents:
 2. **Intra-Cluster Light** — its distribution, structure, and redshift evolution
 3. **Globular Clusters** — remnants of past merging activities
 
-
 ### Constrain the Properties of Dark Matter
 
 add here
