@@ -17,9 +17,10 @@ The SLICE survey explores how galaxy clusters accumulate luminous and dark mass 
 ## The Power of the Sample
 
 <figure>
-  <img src="assets/images/parent_sample.png" alt="Figure showing the SLICE selection function on a plot of cluster mass vs. redshift.">
-  <figcaption>the mass/redshift distribution of clusters of galaxies. The parent sample -- from Sunyaev-Zel'dovich (SPT, ACT & Planck) and X- ray (BCS, eBCS, REFLEX, MACS, eMACS) cluster catalogs -- shown in small gray squares. </figcaption>
+  <img src="/assets/images/parent_sample.png" alt="Cluster mass versus redshift, showing SLICE targets against the parent sample from SZ and X-ray catalogs.">
+  <figcaption>The mass/redshift distribution of galaxy clusters. The parent sample — from Sunyaev–Zel'dovich (SPT, ACT, Planck) and X-ray (BCS, eBCS, REFLEX, MACS, eMACS) catalogs — is shown as small grey squares.</figcaption>
 </figure>
+
 
 ## Science Goals
 
