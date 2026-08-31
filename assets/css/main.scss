@@ -253,10 +253,35 @@ $border-color: #2c2f36;
   color: #a8a8a8;
 }
 
+.layout--splash .page__hero--overlay .page__title {
+  animation: spreadIn 1.4s cubic-bezier(0.2, 0.8, 0.2, 1) both;
+}
+
+@keyframes spreadIn {
+  from {
+    opacity: 0;
+    letter-spacing: -0.15em;
+  }
+  to {
+    opacity: 1;
+    letter-spacing: 0.02em;
+  }
+}
+
 @media (max-width: 900px) {
   .team-list { columns: 2; }
 }
 
 @media (max-width: 550px) {
   .team-list { columns: 1; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .layout--splash .page__hero--overlay .page__title,
+  .layout--splash .page__hero--overlay .page__lead,
+  .hero-title span {
+    animation: none !important;
+    opacity: 1 !important;
+    transform: none !important;
+    filter: none !important;
+  }
 }
