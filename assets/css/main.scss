@@ -165,3 +165,70 @@ $border-color: #2c2f36;
     gap: 1.25em 0.75em;
   }
 }
+/* ---------- Team page: center everything ---------- */
+.team-page .page__content {
+  text-align: center;
+}
+
+.team-page .page__title {
+  text-align: center;
+}
+
+.team-page .page__content > p {
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.team-page .page__content h2 {
+  text-align: center;
+  margin-top: 2.5em;
+  padding-bottom: 0.4em;
+  border-bottom: 1px solid #2c2f36;
+}
+
+/* ---------- Name list in columns ---------- */
+.team-list {
+  list-style: none;
+  padding: 0;
+  margin: 1.5em auto;
+  max-width: 900px;
+  columns: 3;
+  column-gap: 2em;
+}
+
+.team-list li {
+  break-inside: avoid;
+  margin-bottom: 0.5em;
+  font-size: 0.95rem;
+  line-height: 1.35;
+}
+
+.team-list a {
+  color: #e8e8e8;
+  text-decoration: none;
+}
+
+.team-list a:hover {
+  color: #6ab7ff;
+  text-decoration: underline;
+}
+
+.team-list-inst {
+  display: block;
+  font-size: 0.78rem;
+  color: #a8a8a8;
+}
+
+@media (max-width: 900px) {
+  .team-list { columns: 2; }
+}
+
+@media (max-width: 550px) {
+  .team-list { columns: 1; }
+}
+
+/* Keep small photo groups from stretching oddly */
+.team-grid {
+  justify-content: center;
+}
