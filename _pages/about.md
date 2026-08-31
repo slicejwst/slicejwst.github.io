@@ -23,6 +23,8 @@ The SLICE survey explores how galaxy clusters accumulate luminous and dark mass 
 <div class="sci-block">
   <div class="sci-text" markdown="1">
 
+## Science Goals:
+
 ### Explore the Evolution of Stellar Content in Galaxy Clusters
 
 Our sample spans more than 8 Gyr of cosmic time, allowing us to study the buildup of stellar content in galaxy clusters.
