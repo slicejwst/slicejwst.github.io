@@ -16,9 +16,8 @@
 title: SLICE JWST
 email: slice.jwst@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The SLICE project was selected as a JWST Survey program in Cycle 3 (JWST-GO-05594, PI Mahler); 
-  its overarching goal is to study the evolution of clusters of galaxies through their light and 
-  invisible dark matter distributions.
+  A JWST Cycle 3 survey of 124 massive galaxy clusters, tracking the evolution
+  of luminous and dark matter across 8 Gyr of cosmic time.
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: dark
