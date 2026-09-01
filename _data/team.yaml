@@ -37,18 +37,23 @@
   style: list
   people:
     - name: Adi Zitrin
+      institution: Ben Gurion University of the Negev
     - name: Alaina Einsig
       institution: University of Michigan
     - name: Alastair Edge
+      institution: Durham University
     - name: Anna Niemiec
     - name: Anthony Gonzalez
     - name: Ashish Kumar Meena
     - name: Azadeh Fattahi
     - name: Becky Canning
     - name: Ben Floyd
+      institution: University of Portsmouth
     - name: Carla Cornil-Baïotto
+      institution: Universidad de Valparaíso
     - name: David Harvey
     - name: David Lagattuta
+      institution: University of Hertfordshire
     - name: Dominique Eckert
     - name: Erin Coleman
     - name: Felix Vecchi
@@ -57,27 +62,34 @@
     - name: James Betts
     - name: Jean-Paul Kneib
     - name: Jess Doppel
+      institution: Durham University
     - name: Johan Richard
     - name: John Weaver
     - name: Jose M. Diego
-      institution: Instituto de F´ısica de Cantabria (CSIC-UC)
+      institution: Instituto de Física de Cantabria
     - name: Joseph Allingham
+      institution: Ben Gurion University of the Negev
     - name: Katiya Fosdick
     - name: Kyle Ainsley
     - name: Lindsey Bleem
     - name: Marceau Limousin
-      institution: Aix Marseille University
+      institution: Laboratoire d’Astrophysique de Marseille
     - name: Marcus Halson
     - name: Matt Bayliss
+      institution: University of Cincinnati
     - name: Michael Calzadilla
     - name: Michael Florian
+      institution: Eureka Scientific
     - name: Michael McDonald
     - name: Mireia Montes
     - name: Nency Patel
     - name: Pedram Abedi
+      institution: University of Michigan
     - name: Priyamvada Natarajan
+      institution: Yale University
     - name: Raven Gassis
     - name: Richard Massey
     - name: Spandan Biswal
     - name: Stephane Werner
+      institution: Durham University
     - name: Yushan Xie
