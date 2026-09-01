@@ -18,8 +18,6 @@ email: slice.jwst@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A JWST Cycle 3 survey of 124 massive galaxy clusters, tracking the evolution
   of luminous and dark matter across 8 Gyr of cosmic time.
-twitter_username: username
-github_username: username
 minimal_mistakes_skin: dark
 search: true
 url: "https://slicejwst.github.io"
