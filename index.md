@@ -2,15 +2,13 @@
 layout: splash
 permalink: /
 title: "SLICE"
+description: "SLICE: a JWST survey of 124 galaxy clusters studying the co-evolution of stellar content and dark matter from z = 1.9 to z = 0.2."
 header:
   overlay_image: /assets/images/banner_img.png
   overlay_filter: 0.45
   caption: "Credit: NASA/ESA/CSA JWST"
-  description: "SLICE: a JWST survey of 124 galaxy clusters studying the co-evolution of stellar content and dark matter from z = 1.9 to z = 0.2."
 excerpt: "Strong LensIng and Cluster Evolution"
 ---
----
-
 
 The SLICE project was selected as a JWST Survey program in Cycle 3 (JWST-GO-05594, PI: Mahler); its overarching goal is to study the evolution of clusters of galaxies through their light and invisible dark matter distributions. 
 
