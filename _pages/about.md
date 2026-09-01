@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "About SLICE"
+description: "Science goals, sample selection, and program details for the SLICE JWST survey of 124 massive galaxy clusters."
 permalink: /about/
 author_profile: false
 toc: false
