@@ -44,9 +44,11 @@
       institution: Durham University
     - name: Anna Niemiec
     - name: Anthony Gonzalez
+      institution: University of Florida
     - name: Ashish Kumar Meena
     - name: Azadeh Fattahi
     - name: Becky Canning
+      institution: University of Portsmouth
     - name: Ben Floyd
       institution: University of Portsmouth
     - name: Carla Cornil-Baïotto
@@ -57,13 +59,17 @@
     - name: Dominique Eckert
     - name: Erin Coleman
     - name: Felix Vecchi
+      institution: EPFL / Observatoire de Sauverny
     - name: Gavin Leroy
     - name: Isaque Dutra
     - name: James Betts
+      institution: Durham University
     - name: Jean-Paul Kneib
+      institution: EPFL / Observatoire de Sauverny
     - name: Jess Doppel
       institution: Durham University
     - name: Johan Richard
+      institution: Centre de Recherche Astrophysique de Lyon 
     - name: John Weaver
     - name: Jose M. Diego
       institution: Instituto de Física de Cantabria
@@ -71,7 +77,9 @@
       institution: Ben Gurion University of the Negev
     - name: Katiya Fosdick
     - name: Kyle Ainsley
+      institution: Durham University
     - name: Lindsey Bleem
+      institution: University of Chicago
     - name: Marceau Limousin
       institution: Laboratoire d’Astrophysique de Marseille
     - name: Marcus Halson
@@ -81,15 +89,19 @@
     - name: Michael Florian
       institution: Eureka Scientific
     - name: Michael McDonald
+      institution: Massachusetts Institute of Technology
     - name: Mireia Montes
       institution: Institute of Space Sciences
     - name: Nency Patel
+      institution: Durham University
     - name: Pedram Abedi
       institution: University of Michigan
     - name: Priyamvada Natarajan
       institution: Yale University
     - name: Raven Gassis
+      institution: University of Cincinnati
     - name: Richard Massey
+      institution: Durham University
     - name: Spandan Biswal
     - name: Stephane Werner
       institution: Durham University
