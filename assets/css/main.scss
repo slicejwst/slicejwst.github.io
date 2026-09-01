@@ -365,13 +365,20 @@ $border-color: #2c2f36;
 }
 
 /* ---------- Section headings ---------- */
-.page__content h2 {
-  font-size: 1.6rem;
+.page__content h1 {
+  font-size: 2.4rem;
+  font-weight: 700;
   margin-top: 3em;
   margin-bottom: 1.2em;
+  letter-spacing: 0.01em;
+}
+
+.page__content h2 {
+  font-size: 1.6rem;
+  margin-top: 2.5em;
+  margin-bottom: 1em;
   padding-bottom: 0.4em;
   border-bottom: 1px solid #2c2f36;
-  letter-spacing: 0.01em;
 }
 
 .page__content h3 {
