@@ -55,7 +55,7 @@ Strong lensing models remain one of the best ways to map dark matter in galaxy c
 
   </div>
   <figure class="sci-figure">
-    <img src="assets/images/cerny_2026_RCS0327.png" alt="Image of a lens model for RCS0327 from the SLICE Early Release paper (Cerny 2026).">
+    <img src="/assets/images/cerny_2026_RCS0327.png" alt="Image of a lens model for RCS0327 from the SLICE Early Release paper (Cerny 2026).">
     <figcaption>Image of a lens model for RCS0327 from the <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ae41b0/pdf">SLICE Early Release paper (Cerny 2026)</a>.</figcaption>
   </figure>
 </div>
