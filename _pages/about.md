@@ -11,9 +11,11 @@ header:
   caption: "Credit: NASA/ESA/CSA JWST"
 ---
 
+<p style="text-align: center; max-width: 720px; margin: 0 auto 3em;">
 The SLICE survey explores how galaxy clusters accumulate luminous and dark matter over cosmic time.
+</p>
 
-# The Power of the Sample
+## The Power of the Sample
 
 *add text here*
 
@@ -25,9 +27,9 @@ The SLICE survey explores how galaxy clusters accumulate luminous and dark matte
 <div class="sci-block">
   <div class="sci-text" markdown="1">
 
-# Science Goals:
+## Science Goals:
 
-## Explore the Evolution of Stellar Content in Galaxy Clusters
+### Explore the Evolution of Stellar Content in Galaxy Clusters
 
 Our sample spans more than 8 Gyr of cosmic time, allowing us to study the buildup of stellar content in galaxy clusters.
 
@@ -47,7 +49,7 @@ Stellar content comes in the form of three cluster constituents:
 <div class="sci-block sci-block--flip">
   <div class="sci-text" markdown="1">
 
-## Constrain the Properties of Dark Matter
+### Constrain the Properties of Dark Matter
 
 Strong lensing models remain one of the best ways to map dark matter in galaxy clusters. By finding strong lenses, testing cosmological models, and constraining dark matter properties, SLICE data will answer questions about co-evolution of luminous and dark matter in the densest nodes of the cosmic web.
 
@@ -60,6 +62,6 @@ Strong lensing models remain one of the best ways to map dark matter in galaxy c
   </figure>
 </div>
 
-# Program Details
+## Program Details
 
 SLICE uses the two widest NIRCam filters, F150W2 and F322W2.
