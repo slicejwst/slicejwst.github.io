@@ -63,6 +63,6 @@ Strong lensing models remain one of the best ways to map dark matter in galaxy c
   </figure>
 </div>
 
-## Technical Details
+## Program Details
 
 SLICE uses the two widest NIRCam filters, F150W2 and F322W2. These effectively turn the observatory into a giant light bucket, achieving maximal depth and redshift range with minimal time. This approach provides information on a wide range of galaxies, from cluster members to gravitationally-lensed, star-forming and dusty galaxies at cosmic dawn.
