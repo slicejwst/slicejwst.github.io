@@ -18,8 +18,6 @@ SLICE carefully selected 182 massive galaxy clusters out of a parent catalog of 
   <img src="/assets/images/slice_logo.png" alt="SLICE logo" style="max-width: 300px;">
 </figure>
 
----
-
 ## Featured Clusters
 
 <div class="featured-grid">
@@ -50,8 +48,6 @@ SLICE carefully selected 182 massive galaxy clusters out of a parent catalog of 
   </figure>
 
 </div>
-
----
 
 
 ## Acknowledgments
