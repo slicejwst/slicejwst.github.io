@@ -47,6 +47,7 @@
       institution: University of Florida
     - name: Ashish Kumar Meena
     - name: Azadeh Fattahi
+      institution: Durham University
     - name: Becky Canning
       institution: University of Portsmouth
     - name: Ben Floyd
@@ -57,15 +58,16 @@
     - name: David Lagattuta
       institution: University of Hertfordshire
     - name: Dominique Eckert
+      institution: University of Geneva
     - name: Erin Coleman
     - name: Felix Vecchi
-      institution: EPFL / Observatoire de Sauverny
+      institution: Ecole Polytechnique Federale de Lausanne
     - name: Gavin Leroy
     - name: Isaque Dutra
     - name: James Betts
       institution: Durham University
     - name: Jean-Paul Kneib
-      institution: EPFL / Observatoire de Sauverny
+      institution: Ecole Polytechnique Federale de Lausanne 
     - name: Jess Doppel
       institution: Durham University
     - name: Johan Richard
@@ -79,7 +81,7 @@
     - name: Kyle Ainsley
       institution: Durham University
     - name: Lindsey Bleem
-      institution: University of Chicago
+      institution: Argonne National Laboratory
     - name: Marceau Limousin
       institution: Laboratoire d’Astrophysique de Marseille
     - name: Marcus Halson
