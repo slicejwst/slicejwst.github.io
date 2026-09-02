@@ -18,7 +18,9 @@ The SLICE survey explores how galaxy clusters accumulate luminous and dark matte
 
 ## The Power of the Sample
 
-*add text here*
+To follow our goal of tracing cluster formation history, we selected clusters above the mass-z evolution (Fakhouri+08). This matches the highest redshift clusters above one of the lowest mass strong lensing clusters (SGAS-Sharon+20), improving our chances of selecting clusters massive enough to lens background sources.
+
+We divided this evolutionary track in 1 Gyr bins (matching roughly the dynamical timescale at the core of massive clusters at z~0.2) to obtain a uniform number of clusters in each bin. Each selected cluster is also complimented by archival HST data, and #% of observed SLICE clusters are also covered by MUSE IFU spectroscopy.
 
 <figure class="figure-center">
   <img src="/assets/images/parent_sample.png" alt="Cluster mass versus redshift, showing SLICE targets against the parent sample from SZ and X-ray catalogs.">
@@ -54,8 +56,6 @@ Stellar content comes in the form of three cluster constituents:
 
 Strong lensing models remain one of the best ways to map dark matter in galaxy clusters. By finding strong lenses, testing cosmological models, and constraining dark matter properties, SLICE data will answer questions about co-evolution of luminous and dark matter in the densest nodes of the cosmic web.
 
-*Add more here with input from team*
-
   </div>
   <figure class="sci-figure">
     <img src="/assets/images/cerny_2026_RCS0327.png" alt="Image of a lens model for RCS0327 from the SLICE Early Release paper (Cerny et. al. 2026).">
@@ -63,6 +63,6 @@ Strong lensing models remain one of the best ways to map dark matter in galaxy c
   </figure>
 </div>
 
-## Program Details
+## Technical Details
 
-SLICE uses the two widest NIRCam filters, F150W2 and F322W2.
+SLICE uses the two widest NIRCam filters, F150W2 and F322W2. These effectively turn the observatory into a giant light bucket, achieving maximal depth and redshift range with minimal time. This approach provides information on a wide range of galaxies, from cluster members to gravitationally-lensed, star-forming and dusty galaxies at cosmic dawn.
