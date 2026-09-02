@@ -12,13 +12,46 @@ excerpt: "Strong LensIng and Cluster Evolution"
 
 The SLICE project was selected as a JWST Survey program in Cycle 3 (JWST-GO-05594, PI: Mahler); its overarching goal is to study the evolution of clusters of galaxies through their light and invisible dark matter distributions. 
 
-SLICE carefully selected 182 massive galaxy clusters out of a parent catalog of >6500 clusters. Through these clusters, we track 8 Gyr of cluster formation and assembly from z=1.9 to z=0.2 , evenly distributed in bins of 1 Gyr of cosmic time. The JWST scheduling randomly selected 124 clusters for observation in Cycle 3, forming the final SLICE sample. 
+SLICE carefully selected 182 massive galaxy clusters out of a parent catalog of >6500 clusters. Through these clusters, we track 8 Gyr of cluster formation and assembly from z=1.9 to z=0.2 , evenly distributed in bins of 1 Gyr of cosmic time. The JWST scheduling randomly selected 124 clusters for observation in Cycle 3, forming the final SLICE sample.
+
+<figure class="figure-center">
+  <img src="/assets/images/slice_logo.png" alt="SLICE logo", style="max-width: 300px; width: 100%;">
+</figure>
+
+---
+
+## Featured Clusters
+
+<div class="featured-grid">
+
+  <figure class="featured-item">
+    <img src="/assets/images/clusters/abell2744.png" alt="featured cluster 2">
+    <figcaption>
+      <strong>featured cluster 1</strong>
+      <span>featured cluster 1</span>
+    </figcaption>
+  </figure>
+
+  <figure class="featured-item">
+    <img src="/assets/images/clusters/abell2744.png" alt="featured cluster 2">
+    <figcaption>
+      <strong>featured cluster 2</strong>
+      <span>featured cluster 2</span>
+    </figcaption>
+  </figure>
 
 
+  <figure class="featured-item">
+    <img src="/assets/images/clusters/abell2744.png" alt="featured cluster 3">
+    <figcaption>
+      <strong>featured cluster 3</strong>
+      <span>featured cluster 3</span>
+    </figcaption>
+  </figure>
 
+</div>
 
-
-
+---
 
 
 ## Acknowledgments
